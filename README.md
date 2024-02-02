@@ -1,7 +1,7 @@
 # MyFIRSTHTML
 
-This HTML code defines a personal website for Chitransh Jaiswal. The head section contains metadata, including the author's name, keywords, and a brief description of the website. The body of the webpage is divided into sections, presenting information about the author's profile, education, hobbies, licenses and certifications, and skills.
+This follows an HTML definition of a personal website for Chitransh Jaiswal. The head element incorporates a section of metadata which includes authorship, keywords, and summary of the website. Within the main part of the webpage, the blocks with the content dedicated to the author’s profile, education, hobbies, provided licenses and certificates, and skills are placed.
 
-The website includes images, tables, and lists to organize and display the content effectively. Hyperlinks are provided for each certification credential, enabling users to verify the author's accomplishments. The webpage is structured with header, main, and footer elements.
+A number of pictures, tables, and lists have been used on the website to present the content in the most efficient arrangement. Each of the certification credentials comes with hyperlinks, such that readers can link to the sites whose author attained the credentials. The use of header, main and footer will structure the webpage.
 
-The footer contains a horizontal rule and a hyperlink to the "Contact me" page. Overall, this HTML document serves as a professional profile, showcasing educational achievements, certifications, skills, and a means of contact.
+The footer consists of a hard return and a hypertext link leading to a “Contact me” page. Finally, the document presented here is meant to be an indication of a professional curriculum vitae indicating the level of education, certifications, skills, and contact information.
