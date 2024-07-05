@@ -19,7 +19,7 @@ The footer consists of a hard return and a hypertext link leading to a “Contac
 To set up this project on your local machine, follow these steps:
 1. Clone the repository:
 
-        git clone https://github.com/jaiswalchitransh/MyFIRSTHTML
+        git clone https://github.com/jaiswalchitransh/MyFIRSTHTML.git
  
 3. Navigate to the project directory:
 
