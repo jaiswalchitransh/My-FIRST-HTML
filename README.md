@@ -18,14 +18,14 @@ The footer consists of a hard return and a hypertext link leading to a “Contac
 ## Installation
 To set up this project on your local machine, follow these steps:
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/jaiswalchitransh/MyFIRSTHTML
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd MyFIRSTHTML
-    ```
-3. Open the `index.html` file in your preferred web browser to view the website.
+
+        git clone https://github.com/jaiswalchitransh/MyFIRSTHTML
+ 
+3. Navigate to the project directory:
+
+        cd MyFIRSTHTML
+
+5. Open the `index.html` file in your preferred web browser to view the website.
 
 
 ## Usage
