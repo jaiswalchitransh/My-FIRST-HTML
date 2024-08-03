@@ -1,4 +1,4 @@
-# MyFIRSTHTML
+# My FIRST HTML
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -14,6 +14,8 @@ This project defines a personal website for Chitransh Jaiswal using HTML. The he
 A number of pictures, tables, and lists have been used on the website to present the content in the most efficient arrangement. Each certification credential comes with hyperlinks, allowing readers to link to the sites where the author attained the credentials. The use of header, main, and footer elements structures the webpage.
 
 The footer consists of a hard return and a hypertext link leading to a “Contact me” page. This document serves as a professional curriculum vitae, indicating the level of education, certifications, skills, and contact information.
+
+![alt text](https://github.com/jaiswalchitransh/MyFIRSTHTML/blob/main/Sample%20Output/Sample%20Output%201.png)
 
 ## Installation
 To set up this project on your local machine, follow these steps:
